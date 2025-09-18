@@ -1,5 +1,4 @@
-![Profile Views](https://visitcount.itsvg.in/api?id=MMoazzamH&label=Profile%20Views&color=12&pretty=true)
-## Hi there 👋
+![Profile Views](https://visitcount.itsvg.in/api?id=MMoazzamH&label=Profile%20Views&color=12&pretty=true)## Hi there 👋
 
 
 I am a student of Plant Sciences. I am also data science enthusiast. 
