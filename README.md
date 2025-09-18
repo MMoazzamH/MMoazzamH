@@ -4,9 +4,7 @@
   <img src="https://visitcount.itsvg.in/api?id=MMoazzamH&label=Profile%20Views&color=3&pretty=true" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MMoazzamH&show_icons=true&theme=dracula&rank_icon=github" alt="MMoazzamH's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMoazzamH&layout=compact&theme=dracula" alt="MMoazzamH's Top Languages" />
+
 
   
 ## Hi there 👋
