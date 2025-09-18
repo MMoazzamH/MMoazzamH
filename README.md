@@ -22,3 +22,11 @@ You may reach out to me via:
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+<p align="left">
+  <strong>Primary Tool:</strong><br>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="40" height="40" style="filter: invert(45%) sepia(90%) saturate(1400%) hue-rotate(90deg));"/>
+  </a>
+  <br><br>
+  <strong>Key Competencies:</strong>
+</p>
