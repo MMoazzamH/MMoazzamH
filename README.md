@@ -27,4 +27,6 @@ You may reach out to me via:
     <img src="https://cdn.simpleicons.org/microsoftexcel/1D6F42" alt="Microsoft Excel" width="40" height="40"/>
   </a>
   <br><br>
+  <strong>Key Competencies:</strong>
+</p>
 
