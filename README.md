@@ -9,6 +9,6 @@ You may reach out to me via:
 - [LinkedIn](https://www.linkedin.com/in/moazzam372/)
 - [Bluesky](https://bsky.app/profile/muhammadmh.bsky.social)
 - [Facebook](https://www.facebook.com/profile.php?id=100036990192783)
-- [![Image Alt Text](https://img.shields.io/badge/LINK%20TEXT-COLOR)](https://www.linkedin.com/in/moazzam372/)
+- [![Image Alt Text](https://img.shields.io/badge/LINK%20din-COLOR)](https://www.linkedin.com/in/moazzam372/)
 
 
