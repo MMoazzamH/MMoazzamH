@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a student of Plant Sciences. 
+I am a student of Plant Sciences. I am also data science enthusiast. 
 
 My hobbies are to go for evening walks and listning music.
 
