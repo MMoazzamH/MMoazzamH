@@ -25,6 +25,4 @@ You may reach out to me via:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="excel" width="40" height="40" style="filter: invert(45%) sepia(90%) saturate(1400%) hue-rotate(90deg));"/>
   </a>
   <br><br>
-  <strong>Key Competencies:</strong>
-</p>
 
