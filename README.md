@@ -1,4 +1,3 @@
-![Profile Views](https://visitcount.itsvg.in/api?id=MMoazzamH&label=Profile%20Views&color=12&pretty=true)
 
 <p align="left">
   <img src="https://visitcount.itsvg.in/api?id=MMoazzamH&label=Profile%20Views&color=3&pretty=true" />
