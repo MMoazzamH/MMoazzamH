@@ -1,4 +1,8 @@
 ## Hi there 👋
+- [LinkedIn](https://www.linkedin.com/in/moazzam372/)
+- [Bluesky](https://bsky.app/profile/muhammadmh.bsky.social)
+-[Facebook](https://www.facebook.com/profile.php?id=100036990192783)
+
 
 <!--
 **MMoazzamH/MMoazzamH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
