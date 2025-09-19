@@ -4,7 +4,7 @@
 
 I am a student of Plant Sciences. I am also data science enthusiast. 
 
-My hobbies are to go for evening walks and listening to music.
+My hobbies are taking evening walks, going to the gym, cooking, and listening to music.
 
 You may reach out to me via:
 
