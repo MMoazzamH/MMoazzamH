@@ -29,11 +29,9 @@ You may reach out to me via:
 
   <!-- GraphPad Prism -->
 <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/GraphPad_Prism_logo.svg/512px-GraphPad_Prism_logo.svg.png" alt="graphpad prism" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/plotly/3B4CC0" alt="graphpad prism" width="40" height="40"/>
 </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
+
 
 
