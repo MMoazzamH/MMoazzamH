@@ -22,11 +22,15 @@ You may reach out to me via:
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-   <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="microsoft" width="40" height="40"/>
-  </a>
-  <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/GraphPad_Prism_logo.svg" alt="graphpad prism" width="40" height="40"/>
+  <!-- Microsoft -->
+  <a href="https://www.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="microsoft" width="40" height="40"/>
   </a>
 
+  <!-- GraphPad Prism -->
+  <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/GraphPad_Prism_logo.svg" alt="graphpad prism" width="40" height="40"/>
+  </a>
 
 
 
