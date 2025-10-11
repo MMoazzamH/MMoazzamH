@@ -27,10 +27,7 @@ You may reach out to me via:
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="microsoft" width="40" height="40"/>
   </a>
 
-  <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer">
-    <img src="assets/graphpad-prism.png" alt="graphpad prism" width="40" height="40"/>
-  </a>
-</p>
+
 
 
 
