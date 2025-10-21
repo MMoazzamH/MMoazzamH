@@ -11,7 +11,7 @@ You may reach out to me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazzam372/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0077B5?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/muhammadmh.bsky.social)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100036990192783)
+
 [![goodreads](https://img.shields.io/badge/goodreads-0077B5?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/64942621-muhammad-moazzam-hussain)
 
 
