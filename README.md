@@ -4,6 +4,8 @@
 
 I am a student of Plant Sciences. I am also data science enthusiast. 
 
+I am citizen of Pakistan. 
+
 My hobbies are taking evening walks, going to the gym, cooking, and listening to music.
 
 You may reach out to me via:
